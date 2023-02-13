@@ -1,0 +1,40 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  padding: 16px;
+
+  .item {
+    width: 25%;
+    height: 350px;
+    margin: 10px;
+    overflow: auto;
+
+    &-date {
+      font-weight: 600;
+    }
+
+    &-list {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      gap: 8px;
+    }
+
+    &-line {
+      background-color: gray;
+      height: 1px;
+      margin-bottom: 8px;
+    }
+
+    &-total {
+      display: flex;
+      justify-content: flex-end;
+      font-weight: 600;
+      label {
+        margin-right: 4px;
+      }
+    }
+  }
+}

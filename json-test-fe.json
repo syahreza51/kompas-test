@@ -1,0 +1,53 @@
+{
+  "detail": [
+    {
+      "id": "1",
+      "jam": "03:15",
+      "tanggal": "10 Februari 2023",
+      "nama": "Ayam Tangkap",
+      "pengeluaraan": 77249
+    },
+    {
+      "id": "2",
+      "jam": "03:15",
+      "tanggal": "10 Februari 2023",
+      "nama": "Mie Rebus",
+      "pengeluaraan": 32154
+    },
+    {
+      "id": "3",
+      "jam": "00:20",
+      "tanggal": "12 Februari 2023",
+      "nama": "Soto Kuning",
+      "pengeluaraan": 34992
+    },
+    {
+      "id": "4",
+      "jam": "05:59",
+      "tanggal": "12 Februari 2023",
+      "nama": "Ayam Geprek",
+      "pengeluaraan": 37674
+    },
+    {
+      "id": "5",
+      "jam": "05:45",
+      "tanggal": "12 Februari 2023",
+      "nama": "Otak-otak",
+      "pengeluaraan": 11971
+    },
+    {
+      "jam": "06:24",
+      "tanggal": "13 Februari 2023",
+      "nama": "ghgh",
+      "pengeluaraan": 4545,
+      "id": "kly4fPh"
+    },
+    {
+      "jam": "07.34",
+      "tanggal": "13 Februari 2023",
+      "nama": "grsfgsefsefsefsef",
+      "pengeluaraan": 9,
+      "id": "udDT1dG"
+    }
+  ]
+}
