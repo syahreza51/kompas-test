@@ -8,7 +8,7 @@ build with :
 
 In the project directory, you can run:
 
-### `npm server`
+### `npm run server`
 
 for running API / JSON-Server, and then 
 
